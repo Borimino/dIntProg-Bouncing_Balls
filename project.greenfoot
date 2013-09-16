@@ -1,4 +1,8 @@
 #Greenfoot properties
-#Mon Sep 16 12:16:05 CEST 2013
-project.charset=UTF-8
+#Mon Sep 16 12:40:52 CEST 2013
+class.BallWorld.superclass=greenfoot.World
+class.Ball.image=ball.png
+class.Ball.superclass=greenfoot.Actor
 version=2.5.0
+project.charset=UTF-8
+world.lastInstantiated=BallWorld
